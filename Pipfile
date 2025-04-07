@@ -1,0 +1,15 @@
+[[source]]
+url = "https://pypi.org/simple"
+verify_ssl = true
+name = "pypi"
+
+[packages]
+fonttools = {extras = ["interpolatable", "lxml", "plot", "symfont", "type1", "ufo", "unicode", "woff"]}
+fontmake = "*"
+afdko = "*"
+psautohint = "*"
+
+[dev-packages]
+
+[requires]
+python_version = "3.11"

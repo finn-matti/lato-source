@@ -50,7 +50,7 @@ class LatoFontMake(object):
             fontmake_args['optimize_cff'] = CFFOptimization.SUBROUTINIZE
         print(
             project.run_from_designspace(
-                designspace_path=designspace_path,
+                designspace_path,
                 **fontmake_args)
             )
 
