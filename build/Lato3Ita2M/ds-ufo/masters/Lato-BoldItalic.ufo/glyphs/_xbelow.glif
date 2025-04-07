@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="_xbelow" format="2">
-  <advance width="732"/>
-  <anchor x="187.1" y="-564.14" name="_top"/>
-  <outline>
-    <component base="_multiply" yScale="1" xOffset="-189.14" yOffset="-1684.14"/>
-  </outline>
-  <guideline angle="82.9991" x="336" y="0"/>
-</glyph>

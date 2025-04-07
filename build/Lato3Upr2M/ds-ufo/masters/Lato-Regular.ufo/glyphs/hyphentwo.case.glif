@@ -1,7 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="hyphentwo.case" format="2">
-  <advance width="743"/>
-  <outline>
-    <component base="hyphen" xyScale="3.87104e-18" xOffset="-0.36" yOffset="90.8"/>
-  </outline>
-</glyph>

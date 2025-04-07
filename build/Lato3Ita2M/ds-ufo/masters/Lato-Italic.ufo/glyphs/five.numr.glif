@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="five.numr" format="2">
-  <advance width="668"/>
-  <outline>
-    <component base="five.dnom" xScale="1" xOffset="86.08" yOffset="703.94"/>
-  </outline>
-  <guideline angle="82.9991" x="303" y="0"/>
-</glyph>

@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="_dieresis_caron.case" format="2">
-  <advance width="800"/>
-  <anchor x="399.78" y="1813.52" name="_Top"/>
-  <outline>
-    <component base="caron.case" yScale="1" xOffset="-0.22" yOffset="294.9"/>
-    <component base="dieresis.case" xOffset="-0.22"/>
-  </outline>
-</glyph>

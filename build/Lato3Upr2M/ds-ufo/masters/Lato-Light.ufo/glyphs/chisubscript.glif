@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="chisubscript" format="2">
-  <advance width="472"/>
-  <unicode hex="1D6A"/>
-  <anchor x="237.25" y="-1210" name="bottom"/>
-  <outline>
-    <component base="chimod" xOffset="4" yOffset="-1140"/>
-  </outline>
-</glyph>

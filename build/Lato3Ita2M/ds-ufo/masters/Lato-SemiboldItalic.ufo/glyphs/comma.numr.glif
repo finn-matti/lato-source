@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="comma.numr" format="2">
-  <advance width="334"/>
-  <outline>
-    <component base="comma.dnom" xScale="1" xOffset="87.332" yOffset="705.326"/>
-  </outline>
-  <guideline angle="82.9991" x="123" y="0"/>
-</glyph>

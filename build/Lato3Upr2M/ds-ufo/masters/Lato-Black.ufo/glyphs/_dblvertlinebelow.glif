@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="_dblvertlinebelow" format="2">
-  <advance width="800"/>
-  <anchor x="398" y="-583" name="_top"/>
-  <outline>
-    <component base="_dblvertline" yOffset="-1703"/>
-  </outline>
-</glyph>

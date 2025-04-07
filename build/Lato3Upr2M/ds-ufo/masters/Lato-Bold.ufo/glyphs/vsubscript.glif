@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="vsubscript" format="2">
-  <advance width="564"/>
-  <unicode hex="1D65"/>
-  <anchor x="282.76" y="-421" name="bottom"/>
-  <outline>
-    <component base="v.sups" xOffset="0.44" yOffset="-1140"/>
-  </outline>
-</glyph>

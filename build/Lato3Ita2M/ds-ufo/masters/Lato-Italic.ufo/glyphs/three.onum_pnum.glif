@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="three.onum_pnum" format="2">
-  <advance width="990"/>
-  <outline>
-    <component base="three.onum_tnum" xOffset="-41.28"/>
-  </outline>
-  <guideline angle="82.9991" x="454" y="0"/>
-</glyph>

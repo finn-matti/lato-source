@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="gammasubscript" format="2">
-  <advance width="583"/>
-  <unicode hex="1D67"/>
-  <anchor x="292.2" y="-1210" name="bottom"/>
-  <outline>
-    <component base="gammamod" xOffset="3.2" yOffset="-1140"/>
-  </outline>
-</glyph>

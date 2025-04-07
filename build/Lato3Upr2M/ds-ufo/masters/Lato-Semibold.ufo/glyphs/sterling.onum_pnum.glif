@@ -1,7 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="sterling.onum_pnum" format="2">
-  <advance width="1130"/>
-  <outline>
-    <component base="sterling.onum_tnum" xOffset="24.99"/>
-  </outline>
-</glyph>

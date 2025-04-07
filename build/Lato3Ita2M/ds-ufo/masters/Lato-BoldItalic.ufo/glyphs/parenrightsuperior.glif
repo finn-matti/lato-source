@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="parenrightsuperior" format="2">
-  <advance width="334"/>
-  <unicode hex="207E"/>
-  <outline>
-    <component base="parenright.dnom" xOffset="110.78" yOffset="900.78"/>
-  </outline>
-  <guideline angle="82.9991" x="175" y="0"/>
-</glyph>

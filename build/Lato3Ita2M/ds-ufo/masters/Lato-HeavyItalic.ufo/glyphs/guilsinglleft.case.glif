@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="guilsinglleft.case" format="2">
-  <advance width="571"/>
-  <outline>
-    <component base="guilsinglleft" xScale="1" xOffset="32.64" yOffset="180"/>
-  </outline>
-  <guideline angle="82.9991" x="280" y="0"/>
-</glyph>

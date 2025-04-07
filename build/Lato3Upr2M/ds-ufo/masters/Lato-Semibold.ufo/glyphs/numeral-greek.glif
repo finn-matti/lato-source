@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="numeral-greek" format="2">
-  <advance width="438"/>
-  <unicode hex="0374"/>
-  <anchor x="218.966" y="-70" name="bottom"/>
-  <outline>
-    <component base="lowernumeral-greek" yOffset="1162.77"/>
-  </outline>
-</glyph>

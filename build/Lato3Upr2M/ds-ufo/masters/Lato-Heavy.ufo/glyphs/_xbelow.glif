@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="_xbelow" format="2">
-  <advance width="800"/>
-  <anchor x="400.2" y="-573.68" name="_top"/>
-  <outline>
-    <component base="_multiply" yOffset="-1693.68"/>
-  </outline>
-</glyph>

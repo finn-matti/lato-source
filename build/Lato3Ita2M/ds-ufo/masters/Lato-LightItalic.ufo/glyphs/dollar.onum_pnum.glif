@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="dollar.onum_pnum" format="2">
-  <advance width="925"/>
-  <outline>
-    <component base="dollar.onum_tnum" xOffset="-76.75"/>
-  </outline>
-  <guideline angle="82.9991" x="449" y="0"/>
-</glyph>

@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="figuredash.case" format="2">
-  <advance width="1080"/>
-  <outline>
-    <component base="figuredash" xOffset="-0.78"/>
-  </outline>
-  <guideline angle="82.9991" x="478" y="0"/>
-</glyph>

@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="hyphentwo.case" format="2">
-  <advance width="706"/>
-  <outline>
-    <component base="hyphen" xyScale="-2.77396e-18" yScale="1" xOffset="18.88" yOffset="97.6"/>
-  </outline>
-  <guideline angle="82.9991" x="294" y="0"/>
-</glyph>

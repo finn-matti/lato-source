@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="seven.onum_pnum" format="2">
-  <advance width="937"/>
-  <outline>
-    <component base="seven.onum_tnum" xOffset="-70"/>
-  </outline>
-  <guideline angle="82.9991" x="460" y="0"/>
-</glyph>

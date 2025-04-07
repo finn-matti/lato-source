@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="equalsuperior" format="2">
-  <advance width="668"/>
-  <unicode hex="207C"/>
-  <outline>
-    <component base="equal.dnom" yScale="1" xOffset="108.2" yOffset="900.1"/>
-  </outline>
-  <guideline angle="82.9991" x="303" y="0"/>
-</glyph>

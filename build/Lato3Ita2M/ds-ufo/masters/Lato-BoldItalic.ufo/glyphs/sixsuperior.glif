@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="sixsuperior" format="2">
-  <advance width="668"/>
-  <unicode hex="2076"/>
-  <outline>
-    <component base="six.dnom" xOffset="107.32" yOffset="900.78"/>
-  </outline>
-  <guideline angle="82.9991" x="303" y="0"/>
-</glyph>

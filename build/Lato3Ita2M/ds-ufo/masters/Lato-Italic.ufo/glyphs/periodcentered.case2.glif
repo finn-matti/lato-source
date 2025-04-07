@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="periodcentered.case2" format="2">
-  <advance width="1160"/>
-  <outline>
-    <component base="bullet" xyScale="3.87104e-18" xOffset="10.16" yOffset="90.8"/>
-  </outline>
-  <guideline angle="82.9991" x="533" y="0"/>
-</glyph>

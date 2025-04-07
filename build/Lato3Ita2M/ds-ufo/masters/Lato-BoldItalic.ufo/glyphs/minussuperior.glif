@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="minussuperior" format="2">
-  <advance width="668"/>
-  <unicode hex="207B"/>
-  <outline>
-    <component base="minus.dnom" xOffset="109.78" yOffset="900.78"/>
-  </outline>
-  <guideline angle="82.9991" x="303" y="0"/>
-</glyph>

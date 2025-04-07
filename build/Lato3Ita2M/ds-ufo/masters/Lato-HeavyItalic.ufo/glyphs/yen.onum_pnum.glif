@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="yen.onum_pnum" format="2">
-  <advance width="1104"/>
-  <outline>
-    <component base="yen.onum" xOffset="11.4"/>
-  </outline>
-  <guideline angle="82.9991" x="457" y="0"/>
-</glyph>

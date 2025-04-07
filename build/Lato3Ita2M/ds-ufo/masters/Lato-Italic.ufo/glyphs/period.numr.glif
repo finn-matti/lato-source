@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="period.numr" format="2">
-  <advance width="334"/>
-  <outline>
-    <component base="period.dnom" xScale="1" xOffset="86.08" yOffset="703.94"/>
-  </outline>
-  <guideline angle="82.9991" x="123" y="0"/>
-</glyph>

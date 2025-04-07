@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="six.numr" format="2">
-  <advance width="613"/>
-  <outline>
-    <component base="six.dnom" yScale="1" xOffset="96.46" yOffset="706.58"/>
-  </outline>
-  <guideline angle="82.9991" x="303" y="0"/>
-</glyph>

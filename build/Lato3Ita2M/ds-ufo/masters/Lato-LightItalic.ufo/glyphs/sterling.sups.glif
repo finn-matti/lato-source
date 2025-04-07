@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="sterling.sups" format="2">
-  <advance width="668"/>
-  <outline>
-    <component base="sterling.dnom" xOffset="110.75" yOffset="900.25"/>
-  </outline>
-  <guideline angle="82.9991" x="303" y="0"/>
-</glyph>

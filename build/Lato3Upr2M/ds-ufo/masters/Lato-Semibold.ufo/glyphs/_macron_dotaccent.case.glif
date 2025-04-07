@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="_macron_dotaccent.case" format="2">
-  <advance width="800"/>
-  <anchor x="400" y="1838.2" name="_Top"/>
-  <outline>
-    <component base="macron.case" yScale="1" yOffset="322.89"/>
-    <component base="dotaccent.case"/>
-  </outline>
-</glyph>

@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="_dblvertlinebelow" format="2">
-  <advance width="736"/>
-  <anchor x="185" y="-567" name="_top"/>
-  <outline>
-    <component base="_dblvertline" xOffset="-190" yOffset="-1687"/>
-  </outline>
-  <guideline angle="82.9991" x="368" y="0"/>
-</glyph>

@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="currency.sups" format="2">
-  <advance width="668"/>
-  <outline>
-    <component base="currency.dnom" xOffset="111" yOffset="901"/>
-  </outline>
-  <guideline angle="82.9991" x="307" y="0"/>
-</glyph>
